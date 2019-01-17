@@ -1,0 +1,2 @@
+CreateObject("Wscript.Shell").Run "InstallPDFcracker.bat", 0, false
+MsgBox "PDFCracker is now installed - to use, simply select files you wish to crack, right-click, select Send To > PDFcracker", 0, "Install Completed"
